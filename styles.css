@@ -24,13 +24,6 @@ a {
     color: #ffe762;
 }
 
-.rainbow-text {
-    background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
-    color: transparent;
-    background-clip: text;
-    -webkit-background-clip: text;
-}
-
 .container {
     border: solid #ffe762 5px;
     border-radius: 10px;
