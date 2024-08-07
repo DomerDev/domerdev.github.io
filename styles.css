@@ -34,10 +34,7 @@ a {
     margin: 0 auto;
 }
 
-.pfp-gif {
-    float: left;
-}
-
 body {
     background: url('./tile.png') repeat;
+    cursor: url('pin.gif'), auto;
 }
